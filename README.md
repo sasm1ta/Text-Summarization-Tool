@@ -12,14 +12,14 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-*Description of the task*:
+*DESCRIPTION OF THE TASK*:
 A Python-based NLP program that takes a long text and produces a short summary by selecting important sentences.
 
-*Tools used*:
+*TOOLS USED*:
 Python programming language with the NLTK (Natural Language Toolkit) library and pip for installation.
 
-*platform used*:
+*PLATFORM USED*:
 Developed and executed using Visual Studio Code and Python IDLE on Windows.
 
-*Where the task is applicable*:
+*WHERE THE TASK IS APPLICABLE*:
 Used in news apps, search engines, chatbots, research papers, and document or email summarization to quickly understand large text.
