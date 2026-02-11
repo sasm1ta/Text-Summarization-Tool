@@ -23,3 +23,6 @@ Developed and executed using Visual Studio Code and Python IDLE on Windows.
 
 *WHERE THE TASK IS APPLICABLE*:
 Used in news apps, search engines, chatbots, research papers, and document or email summarization to quickly understand large text.
+
+*OUTPUT*:
+[img](https://github.com/user-attachments/assets/e5ba98ad-fc03-410a-86a4-a1e9bbe8cf0e) 
